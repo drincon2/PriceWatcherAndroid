@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My PriceWatcher</string>
+    <string name="changestring">changeString</string>
+    <string name="currentstring">currentString</string>
+    <string name="initialstring">initialString</string>
+    <string name="itemnamestring">itemNameString</string>
+</resources>
